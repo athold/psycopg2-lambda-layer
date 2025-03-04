@@ -6,7 +6,7 @@ This project builds an **AWS Lambda Layer** for `psycopg2`, allowing seamless Po
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-repo/psycopg2-lambda-layer.git
+   git clone https://github.com/athold/psycopg2-lambda-layer.git
    cd psycopg2-lambda-layer
    ```
 
