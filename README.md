@@ -2,6 +2,9 @@
 
 This project builds an **AWS Lambda Layer** for `psycopg2`, allowing seamless PostgreSQL connections in AWS Lambda.
 
+This Lambda Layer is for AWS Lambda Python 3.13. Users can also use the prebuilt `psycopg2-layer-aarch64.zip` for their Lambda functions running Python 3.13 on the ARM architecture.
+
+
 ## 🛠 Build Instructions
 
 1. **Clone the repository:**
